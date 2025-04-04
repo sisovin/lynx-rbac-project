@@ -1,2 +1,1 @@
-# lynx-rbac-project
-A complete Role-Based Access Control (RBAC) system built with NestJS, Drizzle ORM, PostgreSQL, and Lynx UI components.
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
